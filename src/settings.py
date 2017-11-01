@@ -8,7 +8,7 @@ class Settings:
 	def __init__(self):
 		# -> Main setting.
 		# Your authentication token.
-		self.AUTH_TOKEN = "YOUR_ACCESS_TOKEN" 
+		self.AUTH_TOKEN = "EmNBiSK9JF4Q3EhTfqfc.PlwVZTTm9mw9Pkts9rZiRa.2R3FBqfnh1KPDFfdMNMPfsXzvW18oaaPV+NxLrzq0DQ"
 		
 		# -> Youtube video downloader setting.
 		# Integrate with your site url + the path for saving the downloaded videos.
@@ -22,7 +22,7 @@ class Settings:
 		
 		# -> Auto reply setting.
 		# Replacing "simi" words to another words.
-		self.REPLACEMENT_CALL = "Mbot Jinak"
+		self.REPLACEMENT_CALL = "PLAY"
 
 		# -> Not Important setting.
 		# Have another account? you can set it for your secondary account, it will called you/the others account as a boss.
